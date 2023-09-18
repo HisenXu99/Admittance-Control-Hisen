@@ -1,0 +1,8 @@
+prefix=/remote-home/2230728/project/research/Compliant-Control-and-Application-v1.0.0-real/src/universal_robot_control/cartesian_state_msgs/build/devel
+
+Name: cartesian_state_msgs
+Description: Description of cartesian_state_msgs
+Version: 0.0.0
+Cflags: -I/remote-home/2230728/project/research/Compliant-Control-and-Application-v1.0.0-real/src/universal_robot_control/cartesian_state_msgs/build/devel/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime

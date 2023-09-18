@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/remote-home/2230728/project/research/Admittance-Control-Hisen/devel/lib/python2.7/dist-packages",
+        "/remote-home/2230728/project/research/Compliant-Control-and-Application-v1.0.0-real/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/remote-home/2230728/project/research/Admittance-Control-Hisen/devel/lib/python2.7/dist-packages",
+        "/remote-home/2230728/project/research/Compliant-Control-and-Application-v1.0.0-real/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ]
+}

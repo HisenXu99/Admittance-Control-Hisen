@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/remote-home/2230728/project/research/Admittance-Control-Hisen/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/remote-home/2230728/project/research/Compliant-Control-and-Application-v1.0.0-real/devel/include/**",
+        "/remote-home/2230728/project/research/Admittance-Control-Hisen/src/control_algorithm/Admittance/include/**",
+        "/remote-home/2230728/project/research/Admittance-Control-Hisen/src/universal_robot_control/cartesian_velocity_controller/include/**",
+        "/remote-home/2230728/project/research/Compliant-Control-and-Application-v1.0.0-real/src/control_algorithm/hybrid_position_force_control/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
